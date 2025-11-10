@@ -1,0 +1,6 @@
+{
+  "userAgent": "Mozilla/5.0 (compatible; AirbnbRoomsScraper/1.0; +https://bitbash.dev)",
+  "requestTimeout": 20,
+  "maxRetries": 2,
+  "maxWorkers": 4
+}
