@@ -1,0 +1,69 @@
+[
+  {
+    "url": "https://www.airbnb.com/rooms/53997462",
+    "propertyType": "Entire condo",
+    "personCapacity": 4,
+    "rating": {
+      "accuracy": 4.94,
+      "checking": 5.0,
+      "cleanliness": 4.97,
+      "communication": 5.0,
+      "location": 4.97,
+      "value": 4.94,
+      "guestSatisfaction": 4.97,
+      "reviewsCount": 36
+    },
+    "amenities": [
+      {
+        "title": "Bathroom",
+        "values": [
+          { "title": "Hair dryer", "available": true },
+          { "title": "Cleaning products", "available": true },
+          { "title": "Body soap", "available": true },
+          { "title": "Hot water", "available": true }
+        ]
+      },
+      {
+        "title": "Bedroom and laundry",
+        "values": [
+          { "title": "Washer", "available": true },
+          { "title": "Dryer", "available": true },
+          { "title": "Essentials", "available": true }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "title": "Top 10% of homes",
+        "subtitle": "Highly ranked based on ratings and reliability."
+      },
+      {
+        "title": "Alexia is a Superhost",
+        "subtitle": "Experienced and highly rated host."
+      },
+      {
+        "title": "Great location",
+        "subtitle": "100% of guests rated location 5 stars."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://a0.muscache.com/im/pictures/sample1.jpg",
+        "caption": "Living area with city view"
+      },
+      {
+        "url": "https://a0.muscache.com/im/pictures/sample2.jpg",
+        "caption": "Bedroom with queen bed"
+      }
+    ],
+    "hostDetails": {
+      "name": "Alexia",
+      "description": "Superhost with years of experience and excellent reviews."
+    },
+    "price": {
+      "currencySymbol": "$",
+      "amount": 210.0,
+      "raw": "$210 night"
+    }
+  }
+]
